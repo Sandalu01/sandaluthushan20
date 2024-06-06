@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 👯 I’m looking to collaborate on **hospital management project**
-
 - 🤝 I’m looking for help with **Full-Stack developer**
 
 - 💬 Ask me about **java,react**
